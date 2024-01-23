@@ -8,3 +8,4 @@ result = df.loc[df['week'] == df['forecasted week']]
 result = result.drop(columns=['forecasted week'])
 
 print(result)
+NHGJGJHGHGHG
